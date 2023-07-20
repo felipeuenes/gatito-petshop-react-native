@@ -46,6 +46,6 @@ export default StyleSheet.create({
     marginRight: 8,
   },
   quantidade: {
-    width: 42,
+    width: 80,
   }
 });
